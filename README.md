@@ -15,7 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. Fit a KMeans model with 5 clusters to the data.
 5. Predict cluster labels for each data point and add them to the DataFrame.
 6. Visualize the customer segments by plotting their annual income against spending score, coloring points by cluster membership.
-``
+```
 ## Program:
 ```
 /*
